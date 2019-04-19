@@ -6,7 +6,7 @@ package git.com.test.ket;
  */
 public class sd991 {
     public static void main(String[] args) {
-        System.out.println("sdash");
-        System.out.println("dsfsfsf");
+        System.out.println("sdadasdasdsh");
+        System.out.println("asdsssssss");
     }
 }

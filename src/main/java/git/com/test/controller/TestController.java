@@ -8,8 +8,9 @@ public class TestController {
     public static void main(String[] args) {
         System.out.println("sdad");
         System.out.println("sdad");
-        System.out.println("史蒂芬孙但是的方式");
+        System.out.println("史蒂芬孙但式");
         System.out.println("许冠杰");
+        System.out.println("梅艳芳");
 
     }
 }
